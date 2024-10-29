@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I am a developer and designer based in the Maldive
 ## 🔧 Technologies & Tools
 
 - **Languages**: HTML5, CSS3, JavaScript, PHP, Python, Java
-- **Frameworks/Libraries**: Laravel, Bootstrap, Tailwind CSS
-- **Databases**: MySQL
+- **Frameworks/Libraries**: Laravel, React, Vue.js, Bootstrap, Tailwind CSS
+- **Databases**: MySQL, MongoDB
 - **Tools & Platforms**: Git, Docker, Linux, Photoshop
 - **Other Skills**: UI/UX Design, Web Development, Graphic Design, Application Development
 
@@ -16,27 +16,27 @@ Welcome to my GitHub profile! I am a developer and designer based in the Maldive
 
 1. **[Sea Salt](https://seasalt.hashes.live/)**  
    - *Description*: A restaurant web platform for Sea Salt, showcasing menus and other services.  
-   - ![Sea Salt Image](https://hashes.me/images/projects/seasalt.png)
+   - <img src="https://hashes.me/images/projects/seasalt.png" width="200" alt="Sea Salt Image">
 
 2. **[Thaabith Hajj](https://thaabithhajj.com)**  
    - *Description*: A management system designed for Hajj & Umrah services, streamlining the organization and tracking of pilgrimages.  
-   - ![Thaabith Hajj Image](https://hashes.me/images/projects/hajj.png)
+   - <img src="https://hashes.me/images/projects/hajj.png" width="200" alt="Thaabith Hajj Image">
 
 3. **[Seaview Villa Ukulhas](https://seaviewvillaukulhas.com/)**  
    - *Description*: Guest house management system for Seaview Villa, enhancing booking and management functionalities for the guest house.  
-   - ![Seaview Villa Image](https://hashes.me/images/projects/seaviewvillaukulhas.png)
+   - <img src="https://hashes.me/images/projects/seaviewvillaukulhas.png" width="200" alt="Seaview Villa Image">
 
 4. **[Ukulhas Villa](https://ukulhasvilla.com/)**  
    - *Description*: Guest house management system tailored for Ukulhas Villa, facilitating seamless guest services and reservations.  
-   - ![Ukulhas Villa Image](https://hashes.me/images/projects/ukulhasvilla.png)
+   - <img src="https://hashes.me/images/projects/ukulhasvilla.png" width="200" alt="Ukulhas Villa Image">
 
 5. **Ukulhas Beach Villa Hotel**  
    - *Description*: A guest house management solution for Ukulhas Beach Villa Hotel, aimed at providing better guest experience and operational efficiency.  
-   - ![Ukulhas Beach Villa Image](https://hashes.me/images/projects/ukulhasvillabeachhote.png)
+   - <img src="https://hashes.me/images/projects/ukulhasvillabeachhote.png" width="200" alt="Ukulhas Beach Villa Image">
 
 6. **[DigiVote](http://vote.hashes.me/)**  
    - *Description*: A digital voting platform designed to simplify and enhance the voting process.  
-   - ![DigiVote Image](https://hashes.me/images/projects/digivote.png)
+   - <img src="https://hashes.me/images/projects/digivote.png" width="200" alt="DigiVote Image">
 
 ### 🌱 Currently Working On
 
