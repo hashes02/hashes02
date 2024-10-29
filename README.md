@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate developer from the Maldives, curr
 ## 🔧 Technologies & Tools
 
 - **Languages**: HTML5, CSS3, JavaScript, PHP, Python, Java
-- **Frameworks/Libraries**: Laravel, React, Vue.js, Bootstrap, Tailwind CSS
-- **Databases**: MySQL, MongoDB
+- **Frameworks/Libraries**: Laravel, Bootstrap, Tailwind CSS
+- **Databases**: MySQL
 - **Tools & Platforms**: Git, Docker, Linux, Photoshop
 - **Other Skills**: UI/UX Design, Web Development, Graphic Design, Application Development
 
