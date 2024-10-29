@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer from the Maldives, curr
 
 ### 🌱 Currently Working On
 
-- **[Amethyst KDE Plasma Theme](https://github.com/hashes02/Amethyst)**: A KDE Plasma theme to enhance the desktop environment's aesthetics.
+- **[IntraNet]**: Developing an internal office intranet to enhance departmental collaboration, streamline daily task management, and improve workflow efficiency across teams.
 
 ## 🌐 Connect with Me
 
