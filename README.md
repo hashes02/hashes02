@@ -16,27 +16,27 @@ Welcome to my GitHub profile! I am a developer and designer based in the Maldive
 
 1. **[Sea Salt](https://seasalt.hashes.live/)**  
    - *Description*: A restaurant web platform for Sea Salt, showcasing menus and other services.  
-   - ![Sea Salt Image](images/projects/seasalt.png)
+   - ![Sea Salt Image](https://hashes.me/images/projects/seasalt.png)
 
 2. **[Thaabith Hajj](https://thaabithhajj.com)**  
    - *Description*: A management system designed for Hajj & Umrah services, streamlining the organization and tracking of pilgrimages.  
-   - ![Thaabith Hajj Image](images/projects/hajj.png)
+   - ![Thaabith Hajj Image](https://hashes.me/images/projects/hajj.png)
 
 3. **[Seaview Villa Ukulhas](https://seaviewvillaukulhas.com/)**  
    - *Description*: Guest house management system for Seaview Villa, enhancing booking and management functionalities for the guest house.  
-   - ![Seaview Villa Image](images/projects/seaviewvillaukulhas.png)
+   - ![Seaview Villa Image](https://hashes.me/images/projects/seaviewvillaukulhas.png)
 
 4. **[Ukulhas Villa](https://ukulhasvilla.com/)**  
    - *Description*: Guest house management system tailored for Ukulhas Villa, facilitating seamless guest services and reservations.  
-   - ![Ukulhas Villa Image](images/projects/ukulhasvilla.png)
+   - ![Ukulhas Villa Image](https://hashes.me/images/projects/ukulhasvilla.png)
 
 5. **Ukulhas Beach Villa Hotel**  
    - *Description*: A guest house management solution for Ukulhas Beach Villa Hotel, aimed at providing better guest experience and operational efficiency.  
-   - ![Ukulhas Beach Villa Image](images/projects/ukulhasvillabeachhote.png)
+   - ![Ukulhas Beach Villa Image](https://hashes.me/images/projects/ukulhasvillabeachhote.png)
 
 6. **[DigiVote](http://vote.hashes.me/)**  
    - *Description*: A digital voting platform designed to simplify and enhance the voting process.  
-   - ![DigiVote Image](images/projects/digivote.png)
+   - ![DigiVote Image](https://hashes.me/images/projects/digivote.png)
 
 ### 🌱 Currently Working On
 
