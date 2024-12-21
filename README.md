@@ -64,6 +64,6 @@ Welcome to my GitHub profile! I am a developer and designer based in the Maldive
 
 ---
 
-> *"If something works, don't touch it or try to figure out why."* – Mohamed Hisham
+> *"If something works, don't touch it or try to figure out why."* – Hashes
 
 Thanks for visiting my profile! Feel free to reach out or explore my projects.
