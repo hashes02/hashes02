@@ -34,13 +34,13 @@ Welcome to my GitHub profile! I am a developer and designer based in the Maldive
    - *Description*: A guest house management solution for Ukulhas Beach Villa Hotel, aimed at providing better guest experience and operational efficiency.  
    - <img src="https://hashes.me/images/projects/ukulhasvillabeachhote.png" width="200" alt="Ukulhas Beach Villa Image">
 
-6. **[DigiVote](http://vote.hashes.me/)**  
+6. **[DigiVote](https://digivote.online/)**  
    - *Description*: A digital voting platform designed to simplify and enhance the voting process.  
    - <img src="https://hashes.me/images/projects/digivote.png" width="200" alt="DigiVote Image">
 
 ### 🌱 Currently Working On
 
-- **[IntraNet]**: Developing an internal office intranet to enhance departmental collaboration, streamline daily task management, and improve workflow efficiency across teams.
+- **[IntraNet](https://mosfr.gov.mv/)**: Developing an internal office intranet to enhance departmental collaboration, streamline daily task management, and improve workflow efficiency across teams.
 
 ## 🌐 Connect with Me
 
@@ -55,12 +55,6 @@ Welcome to my GitHub profile! I am a developer and designer based in the Maldive
 
 - **Areas of Interest**: Web Development, UI/UX Design, Open Source Contributions
 - **Learning**: Currently exploring advanced JavaScript frameworks and enhancing design skills
-
-## 📈 GitHub Stats
-
-![Mohamed Hisham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashes02&show_icons=true&theme=radical)
-
-![Mohamed Hisham's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hashes02&theme=radical)
 
 ---
 
