@@ -14,9 +14,8 @@ Welcome to my GitHub profile! I am a developer and designer based in the Maldive
 
 ## 💼 Professional Experience
 
-### **Full-Stack Developer | Ministry of Sports, Fitness and Recreation**
-*Jan 2026 – Present*
-- **MOSFR IntraNet**: Architected and developed a centralized internal portal to streamline departmental collaboration and daily task management.
+### **Full-Stack Developer**
+- **IntraNet**: Architected and developed a centralized internal portal to streamline departmental collaboration and daily task management.
 - **SSO Gateway**: Engineered a Single Sign-On (SSO) solution to provide secure, unified access across all Ministry digital platforms.
 - **System Integration**: Focused on modernizing workflows through high-fidelity Vue.js interfaces and robust backend services.
 
