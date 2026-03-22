@@ -55,8 +55,3 @@ Welcome to my GitHub profile! I am a developer and designer based in the Maldive
 
 ---
 
-### 📊 GitHub Stats
-
-![Hashes's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashes02&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashes02&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
