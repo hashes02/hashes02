@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Hisham 👋
 
-Welcome to my GitHub profile! I am a developer and designer based in the Maldives, driven by a passion for crafting efficient, creative, and user-centered solutions. Currently, I am pursuing a Bachelor's degree in Computer Science at Clique College.
+Welcome to my GitHub profile! I am a developer and designer based in the Maldives, driven by a passion for crafting efficient, creative, and user-centered solutions.
 
 ## 🔧 Technologies & Tools
 
