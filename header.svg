@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" role="img" aria-labelledby="t d">
+  <title id="t">hashes — developer and designer from the Maldives</title>
+  <desc id="d">Banner with the name hashes over layered ocean waves, with the line developer and designer, Maldives.</desc>
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06303a"/>
+      <stop offset="0.6" stop-color="#0b6e78"/>
+      <stop offset="1" stop-color="#17a3a3"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1000" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1000" height="320" fill="url(#sea)"/>
+    <circle cx="830" cy="86" r="42" fill="#fbe7b0" opacity="0.95"/>
+    <circle cx="830" cy="86" r="78" fill="#fbe7b0" opacity="0.12"/>
+    <path d="M0 232 C 130 202 250 262 400 232 S 680 202 820 234 S 940 250 1000 228 V320 H0Z" fill="#0f8a8f" opacity="0.55"/>
+    <path d="M0 262 C 140 236 270 286 430 258 S 700 232 840 262 S 950 276 1000 256 V320 H0Z" fill="#0a6d77" opacity="0.8"/>
+    <path d="M0 292 C 150 272 290 308 450 288 S 720 268 860 292 S 960 302 1000 288 V320 H0Z" fill="#06303a"/>
+
+    <text x="64" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" letter-spacing="4" fill="#bfeeee">DEVELOPER · DESIGNER</text>
+    <text x="60" y="166" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="96" font-weight="800" fill="#ffffff" letter-spacing="-3">hashes</text>
+    <text x="64" y="204" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" fill="#d8f5f2">Building calm, fast software from the Maldives.</text>
+  </g>
+</svg>

@@ -1,56 +1,49 @@
-# Hi there, I'm Mohamed Hisham 👋
+<img src="header.svg" alt="hashes: developer and designer from the Maldives" width="100%" />
 
-Welcome to my GitHub profile! I am a developer and designer based in the Maldives, driven by a passion for crafting efficient, creative, and user-centered solutions.
+# Mohamed Hisham
 
-## 🔧 Technologies & Tools
+Full-stack developer and designer based in the Maldives. I build government SSO, internal portals and small-business systems, and I care about interfaces that feel simple to use.
 
-- **Languages**: HTML5, CSS3, JavaScript (ES6+), PHP, Python, Java
-- **Frameworks/Libraries**: Vue.js 3 (Vite), Laravel, React, Tailwind CSS v4, Bootstrap
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms**: Git, Docker, Linux, Photoshop, Figma
-- **Specialties**: Modern UI/UX Design, Full-Stack Web Applications, SSO Integration
+[Website](https://hashes.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/mohamed-hisham-9b817b1b3/) · [Twitter](https://twitter.com/_Hashes) · [Email](mailto:admin@hashes.me)
 
 ---
 
-## 💼 Professional Experience
+## What I work with
 
-### **Full-Stack Developer**
-- **IntraNet**: Architected and developed a centralized internal portal to streamline departmental collaboration and daily task management.
-- **SSO Gateway**: Engineered a Single Sign-On (SSO) solution to provide secure, unified access across all Ministry digital platforms.
-- **System Integration**: Focused on modernizing workflows through high-fidelity Vue.js interfaces and robust backend services.
-
-### **Freelance Developer & Designer | [hashes.is-a.dev](https://hashes.is-a.dev)**
-- **Hospitality Solutions**: Delivered custom management systems for guest houses and hotels in Ukulhas, improving guest experience and booking efficiency.
-- **DigiVote**: Built a digital voting infrastructure focused on transparency and accessibility.
-- **Client Solutions**: Providing end-to-end web development and UI/UX design services for local businesses and organizations.
+|  |  |
+| :-- | :-- |
+| **Backend** | Laravel, PHP, Python, Java |
+| **Frontend** | Vue 3, Vite, Pinia, Tailwind CSS, Electron, React |
+| **Data** | PostgreSQL, Redis, MySQL, MongoDB |
+| **Tooling** | Docker, Git, Linux, Figma, Photoshop |
+| **Focus** | SSO integration, full-stack web apps, UI/UX design |
 
 ---
 
-## 🏆 Featured Projects
+## Work
 
-### 🚀 Recent Work
+### Full-stack developer, Ministry
 
-*   **[Thaabith Hajj](https://thaabithhajj.com)**  
-    *Management system designed for Hajj & Umrah services, streamlining pilgrimage logistics.*
-*   **[Seaview Villa Ukulhas](https://seaviewvillaukulhas.com/)**  
-    *Guest house management system focused on booking efficiency and operational flow.*
-*   **[DigiVote](https://digivote.online/)**  
-    *A secure digital voting platform designed to simplify and enhance the voting process.*
+- **IntraNet:** a central internal portal for departmental collaboration and daily task management.
+- **SSO Gateway:** one sign-on for secure, unified access across all Ministry digital platforms.
+- **Integration:** modernising workflows with Vue interfaces and solid backend services.
 
----
+### Freelance developer and designer
 
-## 🌐 Connect with Me
-
-| Platform | Link |
-| :--- | :--- |
-| **Website** | [hashes.is-a.dev](https://hashes.is-a.dev) |
-| **LinkedIn** | [Mohamed Hisham](https://www.linkedin.com/in/mohamed-hisham-9b817b1b3/) |
-| **Twitter** | [@_Hashes](https://twitter.com/_Hashes) |
-| **Email** | [admin@hashes.me](mailto:admin@hashes.me) |
+- **Hospitality and tourism:** management systems and websites for guest houses, hotels and tour operators in Ukulhas.
+- **DigiVote:** digital voting infrastructure built around transparency and accessibility.
+- **Local clients:** end-to-end web development and UI/UX design for businesses and organisations.
 
 ---
 
-> *"If something works, don't touch it or try to figure out why."* – **Hashes**
+## Selected projects
+
+- [**Maldiventures**](https://maldiventures.com): tours and excursions in Ukulhas, from dolphin cruises and sandbank trips to snorkelling and photography shoots.
+- [**Thaabith Hajj**](https://thaabithhajj.com): management system for Hajj and Umrah services.
+- [**Seaview Villa Ukulhas**](https://seaviewvillaukulhas.com/): guest-house booking and operations.
+- [**DigiVote**](https://digivote.online/): secure online voting platform.
+- [**flow-guide**](https://github.com/hashes02/flow-guide): Claude skill for screenshot walkthroughs of an app's flow.
 
 ---
 
+<sub>"If something works, don't touch it or try to figure out why." — Hashes</sub>
